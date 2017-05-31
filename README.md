@@ -1,2 +1,2 @@
 # parking-mania
-An simply slay app
+A simple slay app
